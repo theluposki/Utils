@@ -1,0 +1,21 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "dev": "node --no-warnings --watch src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "bcryptjs": "^2.4.3",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.4",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
